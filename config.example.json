@@ -1,0 +1,9 @@
+{
+  "default_provider": "lokal",
+  "providers": {
+    "lokal": {
+      "base": "http://127.0.0.1:20128/v1",
+      "api_key": "sk-ganti_dengan_key_9router_lokal"
+    }
+  }
+}

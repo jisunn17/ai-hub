@@ -1,0 +1,7 @@
+server.py
+static/
+config.json
+server.log
+nohup.out
+__pycache__/
+.env
